@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.androidanimations-library-1.1.3_9360c44af531f4f1de227e808c8fc123334da6fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.easing-library-1.0.1_0c7a19c7f2f216961b3e59ed04e744cb1c9dc302\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_27475d83418fe4cc12ffd0b462efce3e81e194fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ddb8ff19c902eab4a3e970ed63fa6c2e2bc1e848">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.0.2_283c94e215cf830735646b59c937664ff8eca623\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="afc1d2ee4898c9469f2784bf68224fb90de2ccf5">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e49efa4e31e590618591d2ce3c115474a3b8a966\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_735c7c48fa1cfe08b461c53b1383578cedfa73b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.miguelcatalan-materialsearchview-1.4.0_49549c8f7c7837dc513ce9887a0b0fd40c801bc7\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_0b93fe5117f02115d0678cf2035b1a50cc533a70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mostw\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_b4223798133f0354242ff7821bce18a924c8626b\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-manipulation\3.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.nhaarman.listviewanimations-lib-manipulation-3.1.0_88b9baf360369522c1b1325c198fde1712e7721e\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_fd2bc1e9142fd0581f96689cf124051722ac33f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_04de9627e59406a42eb0a9ca78366fd5495098ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_e38114c133201143b4dcb6b6a4e3ab440076769a\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_2e73516ce61a997f055dbbc7d3a391d1e21aacf0\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="824fb620109bc1b96a5d92c5fae4a31d256fab4a">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_613552ebb146c64083a586f2cf361a808863a854\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-core\3.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.nhaarman.listviewanimations-lib-core-3.1.0_07533f515b194fbebaf881892b8f171be3d2083f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mostw\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_ee5455d59ff9b95c7abaddcc02de07523bad9fa4\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\me.drakeet.materialdialog\library\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8646b1e69dd5d923d8866dc4311859f0fbca456c">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.drakeet.materialdialog-library-1.2.2_b9a2b25bc1ec05242842ee9f411ee99e1c2ab942\classes.dex" />
+    </item>
+    <item
+        jar="C:\AS\TgM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\AS\TgM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_f34441d49afdf099b76257d5b2d8ab937d56768e\classes.dex" />
+    </item>
+
+</items>

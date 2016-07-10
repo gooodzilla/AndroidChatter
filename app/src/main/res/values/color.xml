@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <color name="white_smoke">#F7F7F7</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <color name="main_color_green">#00b863</color>
+    <color name="main_color_gray_dk">#3b3b3b</color>
+    <color name="main_color_gray_lt">#acacac</color>
+    <color name="main_color_gray">#7d7d7d</color>
+    <color name="gray_light">#e8e8e8</color>
+
+
+    <color name="snv_secondary_text_disabled_material_light">#24000000</color>
+    <color name="snv_secondary_text_disabled_material_dark">#36ffffff</color>
+
+    <color name="snv_primary_material_light">#ff212121</color>
+    <color name="snv_primary_material_dark">#fff5f5f5</color>
+
+    <color name="snv_secondary_text_default_material_light">#8a000000</color>
+    <color name="snv_secondary_text_default_material_dark">#b3ffffff</color>
+
+    <color name="snv_ripple_material_light">#1f000000</color>
+    <color name="snv_ripple_material_dark">#42ffffff</color>
+
+    <color name="snv_background_material_light">#fffafafa</color>
+    <color name="snv_background_material_dark">#ff303030</color>
+
+    <color name="snv_primary_text_default_material_light">#de000000</color>
+    <color name="snv_primary_text_default_material_dark">#ffffffff</color>
+
+    <color name="snv_primary_text_disabled_material_light">#39000000</color>
+    <color name="snv_primary_text_disabled_material_dark">#4Dffffff</color>
+
+    <color name="red">#F44336</color>
+
+    <color name="symbol_black">#262626</color>
+    <color name="company_name_gray">#696969</color>
+
+    <color name="theme_primary_text">#212121</color>
+    <color name="theme_secondary_text">#727272</color>
+    <color name="theme_primary_text_inverted">#ffffff</color>
+    <color name="theme_secondary_text_inverted">#8affffff</color>
+
+    <color name="sa_green">#1E9618</color>
+    <color name="sa_accent">#4EE147</color>
+    <color name="sa_accent_transparent">#D8F3D8</color>
+    <color name="sa_green_dark">#156912</color>
+    <color name="error_text_colour">#806060FF</color>
+
+</resources>

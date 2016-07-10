@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ListOfFriends">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_action_search"
+        android:orderInCategory="100"
+        android:title="@string/abc_search_hint"
+        app:showAsAction="always" />
+
+    <!--<item-->
+        <!--android:id="@+id/action_micro"-->
+        <!--android:title="@string/microphone"-->
+        <!--android:icon="@drawable/icon_toolbar_micro"-->
+        <!--yourapp:showAsAction="always" />-->
+
+    <!--<item-->
+        <!--android:id="@+id/action_remove"-->
+        <!--android:title="@string/remove"-->
+        <!--android:icon="@drawable/icon_toolbar_remove"-->
+        <!--yourapp:showAsAction="always" />-->
+
+</menu>

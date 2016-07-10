@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test_nav_menu_1.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\menu\\test_nav_menu_1.xml"
+    }
+]

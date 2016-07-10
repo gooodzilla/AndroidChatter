@@ -1,0 +1,119 @@
+<resources>
+    <string name="hello">TgM</string>
+    <string name="app_name">TgM</string>
+    <string name="friend_list">Список друзей</string>
+    <string name="username">Имя</string>
+    <string name="password">Пароль:</string>
+    <string name="login">Войти</string>
+    <string name="cancel">Назад</string>
+    <string name="messaging">Чат</string>
+    <string name="local_service_started">TgM Started</string>
+    <string name="local_service_stopped">TgM stopped</string>
+    <string name="local_service_connected">Connected_local</string>
+    <string name="OK">OK</string>
+    <string name="not_connected_to_service">Соединение недоступно</string>
+    <string name="fill_both_username_and_password">Не заполнены номер и пароль</string>
+    <string name="make_sure_username_and_password_correct">Номер-пароль не корректны</string>
+    <string name="user_offline">Оффлайн</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="exit_application">Выход</string>
+    <string name="password_again">Повторите пароль</string>
+    <string name="email">Email</string>
+    <string name="signup_fill_all_fields">Нужно заполнить все поля</string>
+    <string name="signup_type_same_password_in_password_fields">Пароли не совпадают</string>
+    <string name="signup_failed">Нет подключения к базе данных или серверу</string>
+    <string name="signup_username_crashed">Имя  уже зарегестрировано</string>
+    <string name="signup_successfull">Успешно зарегестрированы, можно авторизоваться </string>
+    <string name="username_and_password_length_short">Длина пароля слишком короткое! Пароль более 5 знаков</string>
+    <string name="add_new_friend">Добавить друга</string>
+    <string name="no_friend">Нет друзей, добавьте через пункт меню</string>
+    <string name="add">Добавить</string>
+    <string name="request_sent">Запрос дружбы отправлен</string>
+    <string name="type_friend_username">Имя друга</string>
+    <string name="new_friend_request_exist">Запрос дружбы</string>
+    <string name="approve_selected_friends">Согласиться</string>
+    <string name="not_connected_to_network">Нет соединения</string>
+    <string name="message_cannot_be_sent">Сообщение не отправлено</string>
+    <string name="empty"></string>
+    <string name="empty1"></string>
+    <string name="type_msg">Type message</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_free_play">Free Play</string>
+    <string name="drawer_item_custom">Custom</string>
+    <string name="drawer_item_settings">Settings</string>
+    <string name="drawer_item_help">Help</string>
+    <string name="drawer_item_open_source">Open Source</string>
+    <string name="drawer_item_contact">Contact</string>
+    <string name="microphone">Голосовой поиск</string>
+    <string name="remove">Удалить</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Общие</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Уведомления</string>
+
+    <string name="pref_title_new_message_notifications">Уведомление о новых сообщениях</string>
+
+    <string name="pref_title_ringtone">Рингтон</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Вибрация</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_splash">TgM</string>
+
+</resources>

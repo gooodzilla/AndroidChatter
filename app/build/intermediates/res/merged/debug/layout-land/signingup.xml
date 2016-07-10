@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+	android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center">
+
+
+        <EditText android:id="@+id/userName"
+        style="@style/editext_graybg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:drawableLeft="@drawable/ic_username"
+        android:hint="Имя пользователя"
+        android:password="false"
+        android:maxLength="15"
+        android:layout_marginLeft="50sp"
+        android:layout_marginRight="50sp"
+            android:layout_centerHorizontal="true">
+        <requestFocus />
+
+    </EditText>
+
+    <EditText android:id="@+id/password"
+        style="@style/editext_graybg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="@dimen/pad_5dp"
+        android:drawableLeft="@drawable/ic_pwd"
+        android:hint="Пароль"
+        android:layout_below="@+id/userName"
+        android:inputType="textPassword"
+        android:layout_marginLeft="50sp"
+        android:layout_marginRight="50sp"
+        android:layout_centerHorizontal="true" />
+    
+    <EditText android:id="@+id/passwordAgain"
+        style="@style/editext_graybg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/pad_20dp"
+        android:layout_marginTop="5dp"
+        android:drawableLeft="@drawable/ic_pwd"
+        android:layout_below="@+id/password"
+        android:hint="Повторите пароль"
+        android:inputType="textPassword"
+        android:layout_marginLeft="50sp"
+        android:layout_centerHorizontal="true" />
+    
+
+    
+    <EditText android:id="@+id/email"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:singleLine="true"
+        android:password="false"
+        android:text="123456789"
+        android:visibility="invisible"
+        android:layout_below="@+id/main"
+        android:layout_alignLeft="@+id/passwordAgain"
+        android:layout_alignStart="@+id/passwordAgain"
+        android:gravity="center"
+        android:layout_alignRight="@+id/passwordAgain"
+        android:layout_alignEnd="@+id/passwordAgain"
+        android:layout_centerHorizontal="true" />
+    
+    
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/passwordAgain"
+        android:layout_centerHorizontal="true">
+
+    <Button android:id="@+id/signUp"
+        style="@style/btn_white_large"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50sp"
+        android:layout_weight="1"
+        android:text="@string/sign_up"
+        android:layout_marginRight="50sp"
+        android:gravity="center" />
+    </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>
+
+
+

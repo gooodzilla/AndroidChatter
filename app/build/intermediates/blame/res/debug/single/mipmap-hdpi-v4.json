@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\smiley.png",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\mipmap-hdpi\\smiley.png"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

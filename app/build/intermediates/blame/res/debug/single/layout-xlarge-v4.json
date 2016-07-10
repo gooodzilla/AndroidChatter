@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\chat.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-xlarge\\chat.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\list_friends.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-xlarge\\list_friends.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\loggin_in.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-xlarge\\loggin_in.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\signingup.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-xlarge\\signingup.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_splash.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-xlarge\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\chat_item_rcv.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-xlarge\\chat_item_rcv.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\unapr_list_friends.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-xlarge\\unapr_list_friends.xml"
+    }
+]

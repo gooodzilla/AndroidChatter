@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\list_friends.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-land\\list_friends.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\chat.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-land\\chat.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\unapr_list_friends.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-land\\unapr_list_friends.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_splash.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-land\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\loggin_in.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-land\\loggin_in.xml"
+    },
+    {
+        "merged": "C:\\AS\\TgM\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\signingup.xml",
+        "source": "C:\\AS\\TgM\\app\\src\\main\\res\\layout-land\\signingup.xml"
+    }
+]
